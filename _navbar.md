@@ -1,0 +1,3 @@
+- [教材首页](/)
+- [课程共建](docs/course/README.md)
+- [GitHub](https://github.com/Oaham725/intelligent-analytical-chemistry)
